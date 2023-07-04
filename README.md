@@ -1,2 +1,2 @@
-# Wirtyalne_muzeum
+# Wirtualne_muzeum
 Wizualizacja wirtualnego muzeum
