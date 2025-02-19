@@ -1,7 +1,7 @@
-# Wirtualne muzeum
-Wizualizacja wirtualnego muzeum. Interaktywne obserwowanie świata za pomocą kamery first person.
+# Virtual museum
+Virtual museum visualisation. Interactive world exploration using a first-person camera.
 
-Projekt pisany w C++ przy użyciu biblioteki OpenGL.
+Project written in C++ using the OpenGL library for rendering. 
 
 
 
